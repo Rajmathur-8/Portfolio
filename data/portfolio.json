@@ -72,7 +72,7 @@
     {
       "id": 2,
       "title": "Social Media App Backend",
-      "description": "Real-time social media backend with WebSocket integration for instant messaging and notifications. Reduced message latency by 60% and enhanced user engagement through persistent bidirectional communication. Boosted backend performance by 45% through caching and query optimization techniques.",
+      "description": "Real-time social media backend with WebSocket integration for instant messaging and notifications. Reduced message latency by 60% and enhanced user engagement through persistent, bidirectional communication channels. Boosted backend performance by 45% through caching and query optimization techniques.",
       "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/social-media-lxdthYkxUh4VNqqR66s8e6kPYKAjHV.png",
       "technologies": ["Spring Boot", "Spring Security", "MySQL", "JPA", "WebSockets"],
       "github": "https://github.com/Rajmathur-8/social-media-app-backend",
@@ -81,11 +81,41 @@
     },
     {
       "id": 3,
+      "title": "Expense Tracker App",
+      "description": "An interactive financial dashboard built with Angular and Spring Boot to visualize expenses and income trends using Chart.js. Features comprehensive analytics and budget management capabilities.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/expense-JkOobHx0yGto9NpmIawCfFUL7yapaX.png",
+      "technologies": ["Angular", "Spring Boot", "Spring Data JPA", "Chart.js"],
+      "github": "https://github.com/Rajmathur-8/WalletWise",
+      "demo": "",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Job Portal Website",
+      "description": "Full-stack job portal platform with user authentication, job posting, application management, and advanced search functionality. Built with modern technologies for optimal performance.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/jobportal-lvVNX90Q8VHkqkE5lxtrwz1UrdzQ4E.png",
+      "technologies": ["React", "Spring Boot", "JPA", "MongoDB", "JWT", "TypeScript"],
+      "github": "https://github.com/Rajmathur-8/Job-portal-website",
+      "demo": "",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Chat Room Application",
+      "description": "Real-time chat application with user authentication, message history, and WebSocket integration for instant messaging. Features multiple chat rooms and user presence indicators.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/chatroom-Xidf3t0jdxcuzDr8m5XVgXngX32q6Y.png",
+      "technologies": ["React", "JavaScript", "Spring Boot", "WebSockets"],
+      "github": "https://github.com/Rajmathur-8/chatroom-ui-",
+      "demo": "",
+      "featured": false
+    },
+    {
+      "id": 3,
       "title": "RESTful API Development",
       "description": "Developed and maintained comprehensive RESTful APIs using Node.js and Express.js, achieving 40% reduction in API response time. Implemented geospatial filtering for location-based search features, resulting in 25% faster search results and 30% increase in user engagement.",
       "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/api-development-XYZ123.png",
-      "technologies": ["Node.js", "Express.js", "MongoDB", "Geospatial APIs", "REST"],
-      "github": "https://github.com/Rajmathur-8",
+      "technologies": ["Node.js", "Express.js", "MongoDB", "REST"],
+      "github": "https://github.com/Rajmathur-8/Node-APIs",
       "demo": "",
       "featured": true
     }
