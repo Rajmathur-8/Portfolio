@@ -1,0 +1,182 @@
+{
+  "personal": {
+    "name": "Raj Mathur",
+    "title": "Software Developer Intern | Backend Specialist",
+    "subtitle": "Computer Science student passionate about building scalable backend systems and RESTful APIs with expertise in Java, Spring Boot, and modern web technologies.",
+    "email": "Rmathurraj188@gmail.com",
+    "phone": "+91-8340637097",
+    "location": "Bhubaneswar, India",
+    "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/myimg2.jpg-9jhBrB1MLYS3KRSn0ZPHRUT1Knot2V.jpeg",
+    "resume": "/Raj_Mathur_Resume.pdf",
+    "social": {
+      "github": "https://github.com/Rajmathur-8",
+      "linkedin": "https://www.linkedin.com/in/raj-mathur-778181258/",
+      "twitter": "https://x.com/RajMathur03",
+      "leetcode": "https://leetcode.com/u/Raj_Mathur03/"
+    }
+  },
+  "about": {
+    "description": "I'm a dedicated Computer Science student at IIIT Bhubaneswar with a CGPA of 7.83/10, passionate about backend development and system design. Currently working as a Software Developer Intern at Smart Orbit Pvt Ltd, where I develop RESTful APIs and implement location-based search features. I have strong expertise in Java, Spring Boot, Node.js, and database management, with a proven track record of optimizing system performance and reducing response times.",
+    "highlights": [
+      "LeetCode Knight with rating 1948 and 900+ problems solved, ranked in top 3%",
+      "Reduced API response time by 40% using Node.js and Express.js",
+      "Implemented geospatial filtering resulting in 25% faster search results",
+      "Winner of GeoHack 2024 and The Innovation hackathons",
+      "Improved development efficiency by 35% through comprehensive API documentation",
+      "Achieved 99.9% uptime for scalable applications using Spring Boot and MySQL"
+    ]
+  },
+  "skills": [
+    { "name": "Java", "level": 90, "category": "Languages" },
+    { "name": "Spring Boot", "level": 85, "category": "Frameworks" },
+    { "name": "JavaScript", "level": 85, "category": "Languages" },
+    { "name": "C++", "level": 80, "category": "Languages" },
+    { "name": "Node.js", "level": 80, "category": "Backend" },
+    { "name": "Express.js", "level": 75, "category": "Frameworks" },
+    { "name": "React", "level": 75, "category": "Frontend" },
+    { "name": "HTML", "level": 90, "category": "Frontend" },
+    { "name": "CSS", "level": 85, "category": "Frontend" },
+    { "name": "MySQL", "level": 85, "category": "Databases" },
+    { "name": "MongoDB", "level": 80, "category": "Databases" },
+    { "name": "Spring Security", "level": 80, "category": "Security" },
+    { "name": "JWT", "level": 85, "category": "Security" },
+    { "name": "JPA", "level": 80, "category": "ORM" },
+    { "name": "WebSockets", "level": 75, "category": "Real-time" },
+    { "name": "REST APIs", "level": 90, "category": "API Design" },
+    { "name": "Git", "level": 85, "category": "Version Control" },
+    { "name": "Docker", "level": 70, "category": "DevOps" },
+    { "name": "Postman", "level": 85, "category": "Testing" },
+    { "name": "Data Structures", "level": 90, "category": "DSA" },
+    { "name": "Algorithms", "level": 88, "category": "DSA" },
+    { "name": "OOP", "level": 90, "category": "Concepts" },
+    { "name": "DBMS", "level": 85, "category": "Database" },
+    { "name": "Operating Systems", "level": 80, "category": "Systems" },
+    { "name": "Computer Networks", "level": 75, "category": "Networks" },
+    { "name": "Problem Solving", "level": 95, "category": "Soft Skills" },
+    { "name": "Communication", "level": 85, "category": "Soft Skills" },
+    { "name": "Teamwork", "level": 90, "category": "Soft Skills" },
+    { "name": "Adaptability", "level": 85, "category": "Soft Skills" },
+    { "name": "Time Management", "level": 85, "category": "Soft Skills" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Online Food Delivery App Backend",
+      "description": "Comprehensive backend system for food delivery application with secure user authentication and role-based access control. Implemented JWT-based authentication and Spring Security to reduce unauthorized access by 95% and admin overhead by 40%. Achieved 99.9% uptime with high availability and scalability using Spring Boot and MySQL.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/food-delivery-Jmb7JpRQNtVmbCE5lMaW8EH4P4mTPl.png",
+      "technologies": ["Spring Boot", "Spring Security", "MySQL", "JPA", "JWT"],
+      "github": "https://github.com/Rajmathur-8/Online-food-delivery-app---backend",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Social Media App Backend",
+      "description": "Real-time social media backend with WebSocket integration for instant messaging and notifications. Reduced message latency by 60% and enhanced user engagement through persistent bidirectional communication. Boosted backend performance by 45% through caching and query optimization techniques.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/social-media-lxdthYkxUh4VNqqR66s8e6kPYKAjHV.png",
+      "technologies": ["Spring Boot", "Spring Security", "MySQL", "JPA", "WebSockets"],
+      "github": "https://github.com/Rajmathur-8/social-media-app-backend",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "RESTful API Development",
+      "description": "Developed and maintained comprehensive RESTful APIs using Node.js and Express.js, achieving 40% reduction in API response time. Implemented geospatial filtering for location-based search features, resulting in 25% faster search results and 30% increase in user engagement.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/api-development-XYZ123.png",
+      "technologies": ["Node.js", "Express.js", "MongoDB", "Geospatial APIs", "REST"],
+      "github": "https://github.com/Rajmathur-8",
+      "demo": "",
+      "featured": true
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "Smart Orbit Pvt Ltd",
+      "position": "Software Developer Intern",
+      "duration": "May 2025 – june 2025",
+      "location": "Bhubaneswar, India",
+      "description": "Working on developing and maintaining RESTful APIs and implementing location-based search features for enhanced user experience and system performance.",
+      "achievements": [
+        "Developed and maintained RESTful APIs using Node.js and Express.js, reducing API response time by 40%",
+        "Implemented location-based search features using geospatial filtering, resulting in 25% faster search results and 30% increase in user engagement",
+        "Streamlined development workflow by creating comprehensive API documentation, reducing onboarding time for new team members by 50%",
+        "Improved development efficiency by 35% through better documentation and code organization",
+        "Collaborated with cross-functional teams to deliver high-quality software solutions"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "title": "LeetCode Knight Status",
+      "organization": "LeetCode",
+      "date": "2024",
+      "description": "Achieved Knight status with rating 1948, solved 900+ problems, and ranked in the top 3% of competitive programmers worldwide.",
+      "icon": "zap",
+      "category": "Programming"
+    },
+    {
+      "id": 2,
+      "title": "Winner - GeoHack 2024",
+      "organization": "GeoHack",
+      "date": "2024",
+      "description": "Created a real-time location service using geospatial analytics, demonstrating expertise in location-based technologies and real-time data processing.",
+      "icon": "trophy",
+      "category": "Hackathon"
+    },
+    {
+      "id": 3,
+      "title": "Winner - The Innovation",
+      "organization": "The Innovation",
+      "date": "2024",
+      "description": "Developed an ML and analytics-based environmental monitoring solution for farmers, combining machine learning with practical agricultural applications.",
+      "icon": "trophy",
+      "category": "Hackathon"
+    },
+    {
+      "id": 4,
+      "title": "Top 4 - Hackfest",
+      "organization": "Hackfest",
+      "date": "2024",
+      "description": "Built an integrated solution for farmers using Machine Learning and Blockchain technologies, showcasing innovation in agricultural technology.",
+      "icon": "award",
+      "category": "Hackathon"
+    },
+    {
+      "id": 5,
+      "title": "Hacktoberfest 2024 Contributor",
+      "organization": "GitHub",
+      "date": "2024",
+      "description": "Completed four impactful pull requests to open source repositories, contributing to the global developer community and open source ecosystem.",
+      "icon": "star",
+      "category": "Open Source"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "International Institute of Information Technology, Bhubaneswar",
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "duration": "2022 – 2026",
+      "location": "Bhubaneswar, Odisha, India",
+      "grade": "CGPA: 7.83/10 (Up to 5th semester)",
+      "description": "Pursuing comprehensive education in computer science with focus on software engineering, algorithms, and system design."
+    },
+    {
+      "id": 2,
+      "institution": "Golden Bell Public School",
+      "degree": "Higher Secondary Education (12th)",
+      "duration": "2019 – 2021",
+      "location": "Bihar Sharif, Bihar, India",
+      "grade": "Percentage: 81.6%",
+      "description": "Completed higher secondary education with strong foundation in mathematics and science."
+    }
+  ],
+  "contact": {
+    "title": "Let's Build Something Amazing Together",
+    "description": "I'm always interested in new opportunities, challenging projects, and collaborations. Whether you have a backend development project, need API optimization, or want to discuss technology, feel free to reach out!",
+    "cta": "Get In Touch"
+  }
+}
